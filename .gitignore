@@ -1,0 +1,12 @@
+*.tar
+*.tar.gz
+*.*~
+WEB-INF/
+nohup.out
+.project
+.settings/
+.gradle/
+build/
+.idea/
+*.orig
+target/
